@@ -1,6 +1,6 @@
 /*  Intercept and log Serial transmissions from Arduino
     Andrew Heller-Jones
-    Version 02/26/2019
+    Version 03/08/2019
 */
 
 /*
