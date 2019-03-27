@@ -1,2 +1,4 @@
 # Thermocouple
-Code for thermocouple readings and data log 
+Code for thermocouple readings and data log
+
+Current serial reader version: eightWayRead.pde
